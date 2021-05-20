@@ -5,22 +5,33 @@
 
 ### Some stats and whatnot
 
-<div class="column">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michael-suggs&theme=ayu-mirage&exclude_repo=uncwdsc-sas-code" />
-  </a>
-  <div class="row">
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=michael-suggs&count_private=true&show_icons=true&theme=ayu-mirage" />
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michael-suggs&theme=ayu-mirage&exclude_repo=uncwdsc-sas-code)
+
+![commits](https://github-readme-stats.vercel.app/api?username=michael-suggs&count_private=true&show_icons=true&theme=ayu-mirage)
+
+![streaks](http://github-readme-streak-stats.herokuapp.com?user=michael-suggs&theme=ayu-mirage)
+
+<!-- 
+<div class="container-fluid">
+  <div class="column">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michael-suggs&theme=ayu-mirage&exclude_repo=uncwdsc-sas-code" class="responsive" />
     </a>
   </div>
-  <div class="row">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=michael-suggs&theme=ayu-mirage" />
-    </a>
+  <div class="col-right">
+    <div class="row">
+      <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+        <img align="left" src="https://github-readme-stats.vercel.app/api?username=michael-suggs&count_private=true&show_icons=true&theme=ayu-mirage" class="responsive" />
+      </a>
+    </div>
+    <div class="row">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=michael-suggs&theme=ayu-mirage" class="responsive" />
+      </a>
+    </div>
   </div>
 </div>
-
+ -->
 <!--
 **michael-suggs/michael-suggs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
