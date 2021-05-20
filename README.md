@@ -1,10 +1,19 @@
-### Hey visitor, Michael here! 🎶
-![commits](https://badges.pufler.dev/commits/monthly/michael-suggs)
-![years](https://badges.pufler.dev/years/michael-suggs)
-![repos](https://badges.pufler.dev/repos/michael-suggs)
-![visitors](https://badges.pufler.dev/visits/michael-suggs/michael-suggs)
-![updated](https://badges.pufler.dev/updated/michael-suggs/michael-suggs)
+## Hey there, Michael here! 🎶
+[![gpg-pubkey](https://img.shields.io/badge/gpg-pubkey-399EE6)](https://raw.githubusercontent.com/michael-suggs/michael-suggs/main/michael-suggs.gpg)
+<!-- ![visits](https://badges.pufler.dev/visits/michael-suggs/michael-suggs?color=399EE6) -->
+<!-- ![modified](https://img.shields.io/github/last-commit/michael-suggs/michael-suggs?color=399EE6) -->
 
+### Some stats and whatnot
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michael-suggs&theme=ayu-mirage&exclude_repo=uncwdsc-sas-code" height="400" />
+</a>
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=michael-suggs&count_private=true&show_icons=true&theme=ayu-mirage" width="500" height="200" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=michael-suggs&theme=ayu-mirage" width="500" height="200" />
+</a>
 
 <!--
 **michael-suggs/michael-suggs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,3 +29,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
