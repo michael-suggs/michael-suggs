@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hey visitor, Michael here! 🎶
+![commits](https://badges.pufler.dev/commits/monthly/michael-suggs)
+![years](https://badges.pufler.dev/years/michael-suggs)
+![repos](https://badges.pufler.dev/repos/michael-suggs)
+![visitors](https://badges.pufler.dev/visits/michael-suggs/michael-suggs)
+![updated](https://badges.pufler.dev/updated/michael-suggs/michael-suggs)
+
 
 <!--
 **michael-suggs/michael-suggs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
