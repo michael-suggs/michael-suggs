@@ -7,7 +7,7 @@
 
 <div class="column">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michael-suggs&theme=ayu-mirage&exclude_repo=uncwdsc-sas-code" height="400" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michael-suggs&theme=ayu-mirage&exclude_repo=uncwdsc-sas-code" />
   </a>
   <div class="row">
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
