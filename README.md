@@ -8,31 +8,53 @@
   <a href="https://raw.githubusercontent.com/michael-suggs/michael-suggs/main/michael-suggs.gpg" target="_blank">
     <img src="https://img.shields.io/badge/web-michaelsuggs-399EE6?style=for-the-badge&labelColor=575F66" style="margin-bottom: 5px;" />
   </a>
-  <br />
+  <a href="https://linkedin.com/in/michael-suggs" target="_blank">
+    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  </a>
   <a href="https://github.com/michael-suggs" target="_blank">
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
   </a>
-  <a href="https://twitter.com/michaeljsuggs" target="_blank">
-    <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+  <a href="https://medium.com/mjsuggs" target="_blank">
+    <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
   </a>
-  <a href="https://dev.to/michaelsuggs" target="_blank">
-    <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+  <a href="https://michael-suggs.hashnode.dev">
+    <img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white">
   </a>
-  <a href="https://codepen.com/michael-suggs" target="_blank">
-    <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
-  </a>
+  <br />
   <a href="https://stackoverflow.com/users/michael-suggs" target="_blank">
     <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
   </a>
-  <a href="https://linkedin.com/in/michael-suggs" target="_blank">
-    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  <a href="https://stackexchange.com/users/11068101/michael-suggs">
+    <img alt="Stack Exchange" src="https://img.shields.io/badge/StackExchange-%23ffffff.svg?style=for-the-badge&logo=StackExchange&logoColor=white"/>
   </a>
   <a href="https://www.kaggle.com/michaelsuggs" target="_blank">
     <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
   </a>
-  <a href="https://medium.com/mjsuggs" target="_blank">
-    <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-  </a>  
+  <a href="https://www.hackerrank.com/michaelsuggs">
+    <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+  </a>
+  <a href="https://www.hackerearth.com/@michael-suggs">
+    <img alt="HackerEarth" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=Blue"/>
+  </a>
+  <br />
+  <a href="https://twitter.com/michaeljsuggs" target="_blank">
+    <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://www.reddit.com/user/MakeshiftProgrammer" target="_blank">
+    <img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
+  </a>
+  <a href="https://dev.to/michaelsuggs" target="_blank">
+    <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://www.quora.com/profile/Michael-J-Suggs">
+    <img alt="Quora" src="https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white"/>
+  </a>
+  <a href="https://discordapp.com/users/MagneticBadger#2792">
+    <img alt="Discord" src="https://img.shields.io/badge/MagneticBadger-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+<!--   <a href="https://codepen.com/michael-suggs" target="_blank">
+    <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
+  </a> -->
 </div>  
   
 
