@@ -181,28 +181,10 @@ Recently, I've found the wildest passion for making games (and I'm not entirely 
 <br/>  
 
 
-## Dev Time Breakdown
+## Wakatime Dev Stats
 
 <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
 <!--END_SECTION:waka-->
-
-<!-- [![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=michaelsuggs&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<!-- ## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=michael-suggs&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michael-suggs&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>   -->
 
   
 
