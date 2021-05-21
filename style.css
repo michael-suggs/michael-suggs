@@ -1,8 +1,0 @@
-* {
-  box-sizing: border-box;
-}
-
-.col-left { width: 50.0%; }
-.col-right { width: 100.0%; }
-
-[class*="col-"] { float: left; }
