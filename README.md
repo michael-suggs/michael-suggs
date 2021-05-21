@@ -168,6 +168,9 @@ Recently, I've found the wildest passion for making games (and I'm not entirely 
 ## Dev Time Breakdown
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 
