@@ -165,6 +165,12 @@ Recently, I've found the wildest passion for making games (and I'm not entirely 
 <br/>  
 
 
+## Dev Time Breakdown
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 <!-- ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
