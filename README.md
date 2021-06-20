@@ -247,13 +247,13 @@ Sunday       23 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   0 secs              █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  0 secs              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+stigma-conceptualization 0 secs              █████████████████████████   100.0%
 
 ```
 
@@ -270,7 +270,7 @@ Kotlin                   3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 19/06/2021
+ Last Updated on 20/06/2021
 <!--END_SECTION:waka-->
 
   
