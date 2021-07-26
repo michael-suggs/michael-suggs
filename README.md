@@ -212,7 +212,7 @@ Recently, I've found the wildest passion for making games (and I'm not entirely 
 
 > 🏆 247 Contributions in the Year 2021
  > 
-> 📦 210.9 kB Used in Github's Storage 
+> 📦 211.0 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -276,7 +276,7 @@ Kotlin                   3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2021
+ Last Updated on 26/07/2021
 <!--END_SECTION:waka-->
 
   
