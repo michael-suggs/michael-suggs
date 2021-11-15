@@ -247,13 +247,13 @@ Sunday       27 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   22 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  22 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+uncw-defensestorm        22 mins             █████████████████████████   100.0%
 
 ```
 
@@ -270,7 +270,7 @@ Kotlin                   3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 14/11/2021
+ Last Updated on 15/11/2021
 <!--END_SECTION:waka-->
 
   
