@@ -206,7 +206,7 @@ Recently, I've found the wildest passion for making games (and I'm not entirely 
 ## Wakatime Dev Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-321%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-321%20hrs%2057%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-140%20Thousand%20lines%20of%20code-blue)
 
@@ -214,7 +214,7 @@ Recently, I've found the wildest passion for making games (and I'm not entirely 
 
 > 🏆 0 Contributions in the Year 2022
  > 
-> 📦 242.6 kB Used in GitHub's Storage 
+> 📦 242.7 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -249,13 +249,17 @@ Sunday       27 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   5 mins              █████████░░░░░░░░░░░░░░░░   36.41% 
+Markdown                 5 mins              ███████░░░░░░░░░░░░░░░░░░   31.42% 
+INI                      3 mins              █████░░░░░░░░░░░░░░░░░░░░   21.15% 
+Text                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   5.17% 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.94%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  15 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+music-popularity-vis     15 mins             █████████████████████████   100.0%
 
 ```
 
@@ -272,7 +276,7 @@ Kotlin                   3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 07/01/2022
+ Last Updated on 08/01/2022
 <!--END_SECTION:waka-->
 
   
