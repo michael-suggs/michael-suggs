@@ -206,8 +206,6 @@ Recently, I've found the wildest passion for making games (and I'm not entirely 
 ## Wakatime Dev Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-322%20hrs%2015%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-140%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -276,7 +274,7 @@ Kotlin                   3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 28/01/2022 18:49:48 UTC
+ Last Updated on 29/01/2022 18:55:34 UTC
 <!--END_SECTION:waka-->
 
   
