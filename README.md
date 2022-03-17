@@ -206,7 +206,7 @@ Recently, I've found the wildest passion for making games (and I'm not entirely 
 ## Wakatime Dev Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-331%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-332%20hrs%202%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-140%20Thousand%20lines%20of%20code-blue)
 
@@ -249,13 +249,20 @@ Sunday       25 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     47 mins             ██████████████████████░░░   90.38% 
+Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.36% 
+Java                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.08% 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.98% 
+Rust                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.15%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  52 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+py.fpp3                  45 mins             ██████████████████████░░░   87.6% 
+Unknown Project          4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   8.18% 
+HNN                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.08% 
+extreme-violence         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.15%
 
 ```
 
@@ -272,7 +279,7 @@ Kotlin                   3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 15/03/2022 18:50:41 UTC
+ Last Updated on 17/03/2022 18:51:07 UTC
 <!--END_SECTION:waka-->
 
   
