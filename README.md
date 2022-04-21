@@ -214,7 +214,7 @@ Recently, I've found the wildest passion for making games (and I'm not entirely 
 
 > 🏆 0 Contributions in the Year 2022
  > 
-> 📦 242.9 kB Used in GitHub's Storage 
+> 📦 241.8 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -249,13 +249,13 @@ Sunday       25 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+RMarkdown                8 mins              █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  8 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          8 mins              █████████████████████████   100.0%
 
 ```
 
@@ -272,7 +272,7 @@ Kotlin                   3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 20/04/2022 18:50:58 UTC
+ Last Updated on 21/04/2022 18:55:03 UTC
 <!--END_SECTION:waka-->
 
   
