@@ -206,7 +206,7 @@ Recently, I've found the wildest passion for making games (and I'm not entirely 
 ## Wakatime Dev Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-332%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-332%20hrs%2021%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-140%20Thousand%20lines%20of%20code-blue)
 
@@ -249,13 +249,16 @@ Sunday       25 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-RMarkdown                8 mins              █████████████████████████   100.0%
+Python                   6 mins              ██████████████░░░░░░░░░░░   58.29% 
+Other                    3 mins              ████████░░░░░░░░░░░░░░░░░   31.57% 
+Git Config               1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   10.14%
 
 🔥 Editors: 
-VS Code                  8 mins              █████████████████████████   100.0%
+VS Code                  10 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Unknown Project          8 mins              █████████████████████████   100.0%
+ai-camp                  10 mins             ████████████████████████░   96.73% 
+2021F-dsc592-project     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.27%
 
 ```
 
@@ -272,7 +275,7 @@ Kotlin                   3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 27/04/2022 18:54:27 UTC
+ Last Updated on 02/05/2022 18:54:45 UTC
 <!--END_SECTION:waka-->
 
   
