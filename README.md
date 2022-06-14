@@ -206,13 +206,13 @@ Recently, I've found the wildest passion for making games (and I'm not entirely 
 ## Wakatime Dev Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-332%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-332%20hrs%2042%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-140%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 2 Contributions in the Year 2022
+> 🏆 3 Contributions in the Year 2022
  > 
 > 📦 242.0 kB Used in GitHub's Storage 
  > 
@@ -220,7 +220,7 @@ Recently, I've found the wildest passion for making games (and I'm not entirely 
  > 
 > 📜 28 Public Repositories 
  > 
-> 🔑 15 Private Repositories  
+> 🔑 16 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
@@ -272,7 +272,7 @@ Kotlin                   3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 13/06/2022 18:52:28 UTC
+ Last Updated on 14/06/2022 18:52:24 UTC
 <!--END_SECTION:waka-->
 
   
