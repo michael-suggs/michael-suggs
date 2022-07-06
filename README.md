@@ -67,9 +67,7 @@
 
 Currently, I'm in my final semester of my MSc in Data Science--though I've been off-and-on with AI and ML for roughly five years now. I received Bachelor's degrees in both Computer Science (with honors) and Mathematics from UNCW in 2018, with my undergraduate thesis in computer vision applied to microscopy images of neural tissue, and identifying specific cells and their density therein. I also have spent time working in educational data mining and adapting systems for CS1 student support, as well as developing end-to-end systems for genotype-phenotype analysis in the biological sciences.
 
-I'm a *nix nerd through and through--at this point, I feel I'm just embodying the [/r/unixporn](https://www.reddit.com/r/unixporn/) community, but mainly on MacOS instead of Arch. My belief in, and passion for, FOSS is immense, and I'm currently working on bringing some of my AI/ML knowledge to bolster the budding data science communities in Rust in Haskell. Also, I absolutely adore a TUI app, so be prepared for at least a few of those to pop up at random times!
-
-Recently, I've found the wildest passion for making games (and I'm not entirely sure it's not just because of how enjoyable Rust is to program in 🙃). Though I no longer play video games, I've found working on them has satisfied the same recreational itch I've been looking to scratch for so long now. As a bonus, maybe I can finally see some of the weirdly niche management and sim games I've always wanted to play!  
+I'm a *nix nerd through and through--my belief in, and passion for, FOSS is immense, and I'm currently working on bringing some of my AI/ML knowledge to bolster the budding data science communities in Rust in Haskell. Occasionally, I like to make games; though I'd by no means call myself a games programmer, rather more of programmatic game mechanics explorer trying out new ideas.
   
 
 <br/>  
