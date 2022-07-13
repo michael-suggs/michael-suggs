@@ -204,7 +204,7 @@ I'm a *nix nerd through and through--my belief in, and passion for, FOSS is imme
 ## Wakatime Dev Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-333%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-334%20hrs%202%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-144%20Thousand%20lines%20of%20code-blue)
 
@@ -247,13 +247,17 @@ Sunday       19 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   16 mins             ██████████████░░░░░░░░░░░   57.46% 
+Rust                     11 mins             ██████████░░░░░░░░░░░░░░░   41.51% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.03%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  28 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+mspy_datasci             16 mins             ██████████████░░░░░░░░░░░   57.46% 
+faded-melodies           11 mins             ██████████░░░░░░░░░░░░░░░   41.51% 
+mspy_dsa                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.03%
 
 ```
 
@@ -270,7 +274,7 @@ Kotlin                   3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 11/07/2022 18:54:46 UTC
+ Last Updated on 13/07/2022 18:52:31 UTC
 <!--END_SECTION:waka-->
 
   
