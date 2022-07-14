@@ -204,7 +204,7 @@ I'm a *nix nerd through and through--my belief in, and passion for, FOSS is imme
 ## Wakatime Dev Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-334%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-334%20hrs%205%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-144%20Thousand%20lines%20of%20code-blue)
 
@@ -274,7 +274,7 @@ Kotlin                   3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 13/07/2022 18:52:31 UTC
+ Last Updated on 14/07/2022 18:55:05 UTC
 <!--END_SECTION:waka-->
 
   
