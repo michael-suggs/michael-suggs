@@ -220,43 +220,6 @@ I'm a *nix nerd through and through--my belief in, and passion for, FOSS is imme
  > 
 > 🔑 17 Private Repositories  
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-🌆 Daytime    15 commits     █████████████████░░░░░░░░   68.18% 
-🌃 Evening    7 commits      ████████░░░░░░░░░░░░░░░░░   31.82% 
-🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Tuesday      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Wednesday    3 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
-Thursday     8 commits      █████████░░░░░░░░░░░░░░░░   36.36% 
-Friday       11 commits     ████████████░░░░░░░░░░░░░   50.0% 
-Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Sunday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in Jupyter Notebook** 
 
 ```text
@@ -270,7 +233,7 @@ Kotlin                   3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 01/01/2023 18:44:59 UTC
+ Last Updated on 02/01/2023 18:45:32 UTC
 <!--END_SECTION:waka-->
 
   
