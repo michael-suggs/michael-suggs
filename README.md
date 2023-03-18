@@ -245,14 +245,13 @@ Sunday                   40 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Rust                     12 mins             █████████████████░░░░░░░░   66.86 % 
-JSON                     6 mins              ████████░░░░░░░░░░░░░░░░░   33.14 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  18 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-rltk-roguelike           18 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -268,7 +267,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/03/2023 18:41:49 UTC
+ Last Updated on 18/03/2023 18:40:39 UTC
 <!--END_SECTION:waka-->
 
   
