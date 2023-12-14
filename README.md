@@ -245,14 +245,13 @@ Sunday                   40 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr                ███████████████░░░░░░░░░░   61.29 % 
-Other                    38 mins             ██████████░░░░░░░░░░░░░░░   38.71 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 39 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 39 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -268,7 +267,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/12/2023 18:39:37 UTC
+ Last Updated on 14/12/2023 18:40:38 UTC
 <!--END_SECTION:waka-->
 
   
