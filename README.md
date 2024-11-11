@@ -204,6 +204,8 @@ I'm a *nix nerd through and through--my belief in, and passion for, FOSS is imme
 ## Wakatime Dev Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-346%20hrs%2014%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.3%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -216,6 +218,40 @@ I'm a *nix nerd through and through--my belief in, and passion for, FOSS is imme
  > 
 > 🔑 17 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                109 commits         ███████░░░░░░░░░░░░░░░░░░   26.65 % 
+🌆 Daytime                209 commits         █████████████░░░░░░░░░░░░   51.10 % 
+🌃 Evening                71 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
+🌙 Night                  20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   138 commits         ████████░░░░░░░░░░░░░░░░░   33.74 % 
+Tuesday                  48 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
+Wednesday                54 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
+Thursday                 52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
+Friday                   39 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
+Saturday                 38 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
+Sunday                   40 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Jupyter Notebook** 
 
 ```text
@@ -229,7 +265,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/11/2024 18:42:57 UTC
+ Last Updated on 11/11/2024 18:44:45 UTC
 <!--END_SECTION:waka-->
 
   
