@@ -204,9 +204,9 @@ I'm a *nix nerd through and through--my belief in, and passion for, FOSS is imme
 ## Wakatime Dev Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-356%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-356%20hrs%2044%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.29%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.29%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -267,7 +267,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/01/2026 18:52:41 UTC
+ Last Updated on 05/01/2026 18:57:21 UTC
 <!--END_SECTION:waka-->
 
   
