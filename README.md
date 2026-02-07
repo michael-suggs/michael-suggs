@@ -204,7 +204,7 @@ I'm a *nix nerd through and through--my belief in, and passion for, FOSS is imme
 ## Wakatime Dev Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-357%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-359%20hrs%2053%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.29%20million%20lines%20of%20code-blue?style=flat)
 
@@ -245,13 +245,19 @@ Sunday                   40 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 hr 25 mins        ███████████████░░░░░░░░░░   59.65 % 
+Cython                   28 mins             █████░░░░░░░░░░░░░░░░░░░░   19.65 % 
+TOML                     16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
+C++                      10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 22 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+mcu                      1 hr 55 mins        ████████████████████░░░░░   81.01 % 
+timesheets               16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
+playground               10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -267,7 +273,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/02/2026 19:23:30 UTC
+ Last Updated on 07/02/2026 19:02:30 UTC
 <!--END_SECTION:waka-->
 
   
