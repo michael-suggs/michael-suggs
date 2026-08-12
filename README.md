@@ -204,7 +204,7 @@ I'm a *nix nerd through and through--my belief in, and passion for, FOSS is imme
 ## Wakatime Dev Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-233%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-233%20hrs%2054%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.29%20million%20lines%20of%20code-blue?style=flat)
 
@@ -245,13 +245,17 @@ Sunday                   40 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Cython                   7 mins              ████████████████████░░░░░   78.09 % 
+Rust                     2 mins              █████░░░░░░░░░░░░░░░░░░░░   21.32 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  9 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+mcu                      7 mins              ████████████████████░░░░░   78.68 % 
+rltk-roguelike           2 mins              █████░░░░░░░░░░░░░░░░░░░░   21.32 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -273,7 +277,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/08/2026 19:37:53 UTC
+ Last Updated on 12/08/2026 19:40:24 UTC
 <!--END_SECTION:waka-->
 
   
